@@ -1,2 +1,2 @@
-# trace-ai
+ # trace-ai
 AI-assisted claim analysis project
